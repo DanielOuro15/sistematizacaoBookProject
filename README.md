@@ -1,16 +1,25 @@
 # bookproject
 
-A new Flutter project.
+O projeto foi criado em kolin/dart utilizando flutter e a IDE VSCode.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Necessário a instalação do fluter na máquina.
 
-A few resources to get you started if this is your first Flutter project:
+Adicione as dependencias no arquivo pubspec.yaml:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.14.0
+  flutter_slidable: ^0.6.0
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+execute: flutter pub get
+
+## Inicializando
+
+Para inicializar basta rodar no terminal o comando: 
+flutter run
+
+O projeto foi testado utilizando a ferramenta de desenvolvedor do google, utilizando o modo debbug para dispositivos moveis.
