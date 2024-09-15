@@ -6,16 +6,7 @@ O projeto foi criado em kolin/dart utilizando flutter e a IDE VSCode para a sist
 
 Necessário a instalação do fluter na máquina.
 
-Adicione as dependencias no arquivo pubspec.yaml:
-
-dependencies:
-  flutter:
-    sdk: flutter
-  http: ^0.14.0
-  flutter_slidable: ^0.6.0
-
-
-execute: flutter pub get
+execute no terminal: flutter pub get
 
 ## Inicializando
 
