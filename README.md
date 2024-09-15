@@ -1,6 +1,6 @@
 # bookproject
 
-O projeto foi criado em kolin/dart utilizando flutter e a IDE VSCode.
+O projeto foi criado em kolin/dart utilizando flutter e a IDE VSCode para a sistematização da pós graduação em Desenvolvimento Mobile no CEUB.
 
 ## Getting Started
 
